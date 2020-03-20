@@ -1,0 +1,26 @@
+{
+  "name": "etasitsit-backend",
+  "version": "0.1.0",
+  "description": "Etasitsit backend",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TiK15Ryyb/etasitsit-backend.git"
+  },
+  "keywords": [
+    "etasitsit"
+  ],
+  "author": "TiK'15 Ryyb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TiK15Ryyb/etasitsit-backend/issues"
+  },
+  "homepage": "https://github.com/TiK15Ryyb/etasitsit-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
