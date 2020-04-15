@@ -1,0 +1,6 @@
+{
+    "files": [{
+        "pattern": "builds/etasitsit-backend-(*)-b(*).tar.gz",
+        "target": "etasitsit-backend/{1}-b{2}/software.tar.gz"
+    }]
+}
